@@ -87,18 +87,18 @@ RegisterNetEvent('hs-storage:StashAvailability1', function()
 		},
 	})
 end)
-RegisterNetEvent('hs-storage:StashAvailability2', function()
-	exports['qb-menu']:openMenu({
-		{
-			id = 0,
-			header = "Open Locker SL_54367",
-			txt = "",
-			params = {
-			event = "qb-stosragelockers:Stash2",
-			}
-		},
-	})
-end)
+-- RegisterNetEvent('hs-storage:StashAvailability2', function()
+-- 	exports['qb-menu']:openMenu({
+-- 		{
+-- 			id = 0,
+-- 			header = "Open Locker SL_54367",
+-- 			txt = "",
+-- 			params = {
+-- 			event = "qb-storagelockers:Stash2",
+-- 			}
+-- 		},
+-- 	})
+-- end)
 
 RegisterNetEvent('qb-storagelockers:Stash1', function()
 	local keyboard = exports["qb-keyboard"]:KeyboardInput({
