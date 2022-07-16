@@ -4,6 +4,8 @@ __________________________________
 1)Easy To Make More Storage
 __________________________________
 2)Easy To make More Prop Crates
+__________________________________
+3) You Have To Take back the Crate oR else it will despawn After server restart
 
 
 _______________________________________________________________________________________________________
